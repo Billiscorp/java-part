@@ -6,6 +6,7 @@ package com.telesens.academy.lesson03;
 	- считывает подстроку
 	- выводит исходные строку и подстроку и выводит кол-во вхождений строки в подстроку
 
+
  */
 
 import java.util.Scanner;
