@@ -1,4 +1,4 @@
-package com.academy.telesens.lesson03.homework03;
+package com.telesens.academy.lesson03.homework03;
 
 /*
     Реализовать программу, которая определяет, является ли строка палиндромом.
@@ -9,7 +9,7 @@ package com.academy.telesens.lesson03.homework03;
 
 import java.util.Scanner;
 
-public class Task07_not {
+public class Homework03_07 {
 
     public static void main(String[] args) {
 

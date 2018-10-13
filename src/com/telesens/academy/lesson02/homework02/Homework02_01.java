@@ -5,7 +5,7 @@ package com.academy.telesens.lesson02.homework02;
 
 import java.util.Scanner;
 
-public class Task01 {
+public class Homework02_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number, please: a = ");

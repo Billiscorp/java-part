@@ -1,4 +1,4 @@
-package com.academy.telesens.lesson03.homework03;
+package com.telesens.academy.lesson03.homework03;
 
 /*
     Напишите программу, которая:
@@ -10,7 +10,7 @@ package com.academy.telesens.lesson03.homework03;
 
 import java.util.Scanner;
 
-public class Task03 {
+public class Homework03_03 {
 
     public static void main(String[] args) {
 

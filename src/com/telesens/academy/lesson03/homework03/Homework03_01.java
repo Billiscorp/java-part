@@ -1,4 +1,4 @@
-package com.academy.telesens.lesson03.homework03;
+package com.telesens.academy.lesson03.homework03;
 
 /*
     Напишите программу, которая:
@@ -12,7 +12,7 @@ import com.sun.javafx.binding.StringFormatter;
 
 import java.util.Scanner;
 
-public class Task01 {
+public class Homework03_01 {
 
     public static void main(String[] args) {
 

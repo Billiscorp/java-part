@@ -1,8 +1,8 @@
-package com.academy.telesens.lesson03.inclass03;
+package com.telesens.academy.lesson03.classwork03;
 
 
 
-public class InClass04 {
+public class Classwork03_04 {
     public static void main(String[] args) {
 
         for (int i = 1; i < 10; i++) {

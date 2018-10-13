@@ -5,7 +5,7 @@ package com.academy.telesens.lesson02.homework02;
 
 import java.util.Scanner;
 
-public class Task11 {
+public class Homework02_11 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

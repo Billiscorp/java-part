@@ -8,7 +8,7 @@ package com.academy.telesens.lesson02.homework02;
         последовательность чисел однозначно определить непарное число.
   */
 
-public class Task06 {
+public class Homework02_06 {
     public static void main(String[] args) {
 
         int [] newArray = {4, 3, 4, 77, 5, 9, 77, 9, 5, 4, 3};

@@ -1,4 +1,4 @@
-package com.academy.telesens.lesson03.homework03;
+package com.telesens.academy.lesson03.homework03;
 
 /*
 Реализовать программу, которая:
@@ -14,7 +14,7 @@ package com.academy.telesens.lesson03.homework03;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task08 {
+public class Homework03_08 {
     public static void main(String[] args) {
 
         int arraySize = inputSize();

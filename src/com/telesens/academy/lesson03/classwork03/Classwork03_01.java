@@ -1,6 +1,6 @@
-package com.academy.telesens.lesson03.inclass03;
+package com.telesens.academy.lesson03.classwork03;
 
-public class InClass01 {
+public class Classwork03_01 {
     public static void main( String[] args ) {
 
         System.out.println("Привет! Не забывайте комментировать свой код.");

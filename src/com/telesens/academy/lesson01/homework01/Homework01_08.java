@@ -1,6 +1,6 @@
-package com.academy.telesens.lesson01.homework01;
+package com.telesens.academy.lesson01.homework01;
 
-public class Task08 {
+public class Homework01_08 {
     public static void main(String[] args) {
 
         System.out.println("Привет!");

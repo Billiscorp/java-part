@@ -1,4 +1,4 @@
-package com.academy.telesens.lesson03.homework03;
+package com.telesens.academy.lesson03.homework03;
 
 /*
     Реализовать программу, которая:
@@ -12,7 +12,7 @@ package com.academy.telesens.lesson03.homework03;
 
 import java.util.Scanner;
 
-public class Task04_not {
+public class Homework03_04 {
 
     public static void main(String[] args) {
 

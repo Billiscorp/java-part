@@ -1,6 +1,6 @@
-package com.academy.telesens.lesson01.homework01;
+package com.telesens.academy.lesson01.homework01;
 
-public class Task10 {
+public class Homework01_10 {
     public static void main (String[] args) {
 
 

@@ -1,6 +1,6 @@
-package com.academy.telesens.lesson02.inclass02;
+package com.telesens.academy.lesson02.classwork02;
 
-public class InClass_4 {
+public class Classwork02_04 {
     public static void main(String[] args) {
 
         int n=5;

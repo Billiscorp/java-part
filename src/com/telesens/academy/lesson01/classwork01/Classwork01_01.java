@@ -1,6 +1,6 @@
-package com.academy.telesens.lesson01.inclass01;
+package com.telesens.academy.lesson01.classwork01;
 
-public class AppMain {
+public class Classwork01_01 {
     public static void main(String[] args) {
         System.out.println(args.length);
         System.out.println(args[0]);

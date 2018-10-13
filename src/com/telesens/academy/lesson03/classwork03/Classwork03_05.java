@@ -1,8 +1,8 @@
-package com.academy.telesens.lesson03.inclass03;
+package com.telesens.academy.lesson03.classwork03;
 
 import java.util.Scanner;
 
-public class InClass05 {
+public class Classwork03_05 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
