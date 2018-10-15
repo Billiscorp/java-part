@@ -1,6 +1,9 @@
-package com.academy.telesens.lesson02.homework02;
+package com.telesens.academy.lesson02.homework02;
 
-/*  Релизовать программу возведения числа в квадрат  */
+/*
+2.
+Релизовать программу возведения числа в квадрат
+*/
 
 import java.util.Scanner;
 

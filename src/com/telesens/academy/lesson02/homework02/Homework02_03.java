@@ -1,6 +1,9 @@
-package com.academy.telesens.lesson02.homework02;
+package com.telesens.academy.lesson02.homework02;
 
-        /*   Инициализировать две переменные. Поменять их значения местами   */
+/*
+3.
+a) Инициализировать две переменные. Поменять их значения местами
+*/
 
 import java.util.Scanner;
 

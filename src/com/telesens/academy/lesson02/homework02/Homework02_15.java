@@ -1,20 +1,18 @@
-package com.academy.telesens.lesson02.homework02;
+package com.telesens.academy.lesson02.homework02;
 
 /*
-14.
-Нарисовать треугольник заданной размерности. Пример для размера 6:
-     *
-    **
-   ***
-  ****
- *****
-******
+15.
+Нарисовать квадрат заданной размерности. Пример для размера 4:
+****
+*  *
+*  *
+****
 
 */
 
 import java.util.Scanner;
 
-public class Homework02_14 {
+public class Homework02_15 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

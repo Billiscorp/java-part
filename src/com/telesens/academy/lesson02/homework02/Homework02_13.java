@@ -1,6 +1,7 @@
-package com.academy.telesens.lesson02.homework02;
+package com.telesens.academy.lesson02.homework02;
 
 /*
+13.
 Нарисовать треугольник заданной размерности. Пример для размера 6:
         *
         **

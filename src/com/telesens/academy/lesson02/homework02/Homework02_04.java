@@ -1,6 +1,9 @@
-package com.academy.telesens.lesson02.homework02;
+package com.telesens.academy.lesson02.homework02;
 
-/*  Реализовать программу ввода числа x с клавиатуры и вывода значения: x - 5%  */
+/*
+4.
+Реализовать программу ввода числа x с клавиатуры и вывода значения: x - 5%
+*/
 
 import java.util.Scanner;
 
