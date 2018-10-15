@@ -1,23 +1,25 @@
 package com.telesens.academy.lesson03.classwork03;
 
+/*
+3.
+        Имеем массивы строк:
+        String[] allUsers = {"Andry", "Abdel", "Amanda", "Alyona", "Nataly", "Nelly", "Nikola"};
+        String[] firstPartOfUsers = new String[4];
+        String[] secondPartOfUsers = new String[3];
+        Скопировать первые 4 имени из массива allUsers в массив firstPartOfUser
+        Скопировать последние 3 имени из массива allUsers в массив secondPartOfUsers
+        Вывести массивы allUsers, firstPartOfUsers, secondPartOfUsers на консоль
+        Проверить, равны ли массивы по содержимому: firstPartOfUsers,
+        secondPartOfUsers
+*/
+
+
 import java.util.Scanner;
 
 public class Classwork03_03 {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter an integer, please: n = ");
-        int n = scanner.nextInt();
-
-        int res = n % 2;
-
-        switch (res) {
-            case 0:
-                System.out.println("Even");
-                break;
-            case 1:
-                System.out.println("Odd");
-                break;
-        }
     }
+
+
 }

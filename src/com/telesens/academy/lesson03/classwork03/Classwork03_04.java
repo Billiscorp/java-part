@@ -1,25 +1,22 @@
 package com.telesens.academy.lesson03.classwork03;
 
+/*
+4.
+Имеем исходный массив:
+String[] tracks={"track_01", "track_03", "track_21", "track_15", "track_12","track_99", "track_11", "track_10"};
+Вывести на консоль треки от 10 до 15 включительно
+=>
+track_15
+track_12
+track_11
+track_10
+*/
 
 
 public class Classwork03_04 {
     public static void main(String[] args) {
 
-        for (int i = 1; i < 10; i++) {
-            if (i % 2 == 1) {
-                System.out.println(i);
-            }
-        }
-
-        int i = 1;
-        while (i < 10) {
-            if (i % 2 == 1) {
-                System.out.println(i);
-
-            }
-            i++;
-        }
-
-
     }
+
+
 }

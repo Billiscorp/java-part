@@ -29,5 +29,16 @@ public class Classwork02_07 {
         }
 
 
+        /*int res = n % 2;
+        switch (res) {
+            case 0:
+                System.out.println("Even");
+                break;
+            case 1:
+                System.out.println("Odd");
+                break;
+        }*/
+
+
     }
 }

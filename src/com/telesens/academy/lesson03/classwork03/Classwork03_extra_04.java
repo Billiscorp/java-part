@@ -2,7 +2,7 @@ package com.telesens.academy.lesson03.classwork03;
 
 import java.util.Scanner;
 
-public class Classwork03_08 {
+public class Classwork03_extra_04 {
 
     public static void main(String[] args) {
 
