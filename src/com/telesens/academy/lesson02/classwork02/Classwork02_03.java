@@ -1,5 +1,18 @@
 package com.telesens.academy.lesson02.classwork02;
 
+
+/*
+3.
+        Изменить тип переменные x, y, z и rеsult на double
+        Задать значения: x=1.1,y= 3, z=5 соответственно.
+        Вывести x, y и z на консоль.
+        В переменную result записать результат вычисления z-y-x
+        Вывести result на консоль.
+*/
+
+
+
+
 public class Classwork02_03 {
     public static void main(String[] args) {
 
